@@ -3,3 +3,4 @@
 3) Quiz Game Project
 4) The Snake Game
 5) Turtle Crossing Capstone Project
+6) U.S State Game Project 
