@@ -1,5 +1,0 @@
-amazon | neha@gmail.com | password
-ebay | neha@gmail.com | 123
-flipkart | neha@gmail.com | 234
- | neha@gmail.com | 
-insta | neha@gmail.com | 5$&kwupUYM5nv
